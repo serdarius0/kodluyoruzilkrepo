@@ -11,11 +11,11 @@ Bu repo [Kodluyoruz](kodluyoruz.org) Front-End eğitiminde oluşturduğumuz ilk 
 
 Projeyi öncelikle klonluyoruz.
 
-```
 
+```
 https://github.com/serdarius0/kodluyoruzilkrepo.git
-
 ```
+
 
 
 
